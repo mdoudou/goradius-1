@@ -3,3 +3,145 @@
 [INFO]2019/05/23 17:21:28 /Users/waso/go/src/goradius/sql.go:58: sql: no rows in result set
 [INFO]2019/05/23 17:29:32 /Users/waso/go/src/goradius/sql.go:58: sql: no rows in result set
 [INFO]2019/05/23 17:52:54 /Users/waso/go/src/goradius/sql.go:27: ËøûÊé•Êï∞ÊçÆÂ∫ìÂ§±Ë¥•
+[INFO]2019/05/24 17:12:31 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:12:31 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:12:33 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:12:33 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:12:33 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:12:33 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:12:34 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:12:34 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:12:34 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:12:34 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:12:35 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:12:35 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:18:27 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:18:27 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:19:41 /Users/waso/go/src/ewangsong/goradius/server.go:27: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:19:41 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:20:39 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:20:39 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:20:40 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:20:40 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:20:40 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:20:40 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:20:41 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:20:41 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:20:41 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:20:42 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:20:42 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:20:42 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:20:47 /Users/waso/go/src/ewangsong/goradius/server.go:26: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:20:47 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:46 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:46 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:46 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:46 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:47 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:47 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:48 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:48 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:49 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:49 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:50 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:50 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:50 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:50 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:51 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:51 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:51 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:51 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:52 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:52 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:52 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:52 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:53 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:53 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:53 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:53 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:54 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:54 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:54 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:54 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:55 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:55 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:55 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:55 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:21:56 /Users/waso/go/src/ewangsong/goradius/server.go:28: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:21:56 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:28:45 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:28:45 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:28:45 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:28:45 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:28:46 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:28:46 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:28:46 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:28:46 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:28:47 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:28:47 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:28:52 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:28:52 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:28:53 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:28:53 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:42:52 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:42:52 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:42:52 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:42:52 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:42:53 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:42:53 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:42:54 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:42:54 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:42:55 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:42:55 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:42:55 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:42:55 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:42:56 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:42:56 /Users/waso/go/src/ewangsong/goradius/sql.go:59: sql: no rows in result set
+[INFO]2019/05/24 17:45:35 /Users/waso/go/src/ewangsong/goradius/sql.go:28: Wrong connect to DB
+[INFO]2019/05/24 17:47:34 /Users/waso/go/src/ewangsong/goradius/sql.go:27: Wrong connect to DB
+[INFO]2019/05/24 17:47:51 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:47:51 /Users/waso/go/src/ewangsong/goradius/sql.go:58: sql: no rows in result set
+[INFO]2019/05/24 17:47:52 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:47:52 /Users/waso/go/src/ewangsong/goradius/sql.go:58: sql: no rows in result set
+[INFO]2019/05/24 17:47:54 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:47:54 /Users/waso/go/src/ewangsong/goradius/sql.go:58: sql: no rows in result set
+[INFO]2019/05/24 17:47:56 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:47:56 /Users/waso/go/src/ewangsong/goradius/sql.go:58: sql: no rows in result set
+[INFO]2019/05/24 17:47:57 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:47:57 /Users/waso/go/src/ewangsong/goradius/sql.go:58: sql: no rows in result set
+[INFO]2019/05/24 17:48:22 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= “%|mwæÁäÑ±àÛç nasIP= 172.28.0.106
+[INFO]2019/05/24 17:48:22 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:48:30 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= “%|mwæÁäÑ±àÛç nasIP= 172.28.0.106
+[INFO]2019/05/24 17:48:30 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:48:38 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= “%|mwæÁäÑ±àÛç nasIP= 172.28.0.106
+[INFO]2019/05/24 17:48:38 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:48:55 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= î=ˆ,˚-≠™øÇßzÍé” nasIP= 172.28.0.106
+[INFO]2019/05/24 17:48:55 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:49:03 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= î=ˆ,˚-≠™øÇßzÍé” nasIP= 172.28.0.106
+[INFO]2019/05/24 17:49:03 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:49:11 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= î=ˆ,˚-≠™øÇßzÍé” nasIP= 172.28.0.106
+[INFO]2019/05/24 17:49:11 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:49:19 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= —KÍÜˆD•æ«N nasIP= 172.28.0.106
+[INFO]2019/05/24 17:49:19 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:49:27 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= —KÍÜˆD•æ«N nasIP= 172.28.0.106
+[INFO]2019/05/24 17:49:27 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:51:06 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= Òƒë≠§í¡ÃÊ|√É˝° nasIP= 172.28.0.106
+[INFO]2019/05/24 17:51:06 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:51:14 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= Òƒë≠§í¡ÃÊ|√É˝° nasIP= 172.28.0.106
+[INFO]2019/05/24 17:51:14 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:51:22 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= test userpassword= Òƒë≠§í¡ÃÊ|√É˝° nasIP= 172.28.0.106
+[INFO]2019/05/24 17:51:22 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:51:46 /Users/waso/go/src/ewangsong/goradius/server.go:30: username= test userpassword= ¨‘ÿ"Èª6ó+PF:waı nasIP= 172.28.0.106
+[INFO]2019/05/24 17:51:46 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:55:29 /Users/waso/go/src/ewangsong/goradius/server.go:30: username= test userpassword= µ+ô∫öÚπ¡ÓÎrôw¶∑ nasIP= 172.28.0.106
+[INFO]2019/05/24 17:55:29 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:55:37 /Users/waso/go/src/ewangsong/goradius/server.go:30: username= test userpassword= µ+ô∫öÚπ¡ÓÎrôw¶∑ nasIP= 172.28.0.106
+[INFO]2019/05/24 17:55:37 /Users/waso/go/src/ewangsong/goradius/sql.go:58: Error 1267: Illegal mix of collations (utf8_general_ci,IMPLICIT) and (utf8mb4_general_ci,COERCIBLE) for operation '='
+[INFO]2019/05/24 17:58:46 /Users/waso/go/src/ewangsong/goradius/server.go:30: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:58:46 /Users/waso/go/src/ewangsong/goradius/sql.go:58: sql: no rows in result set
+[INFO]2019/05/24 17:58:52 /Users/waso/go/src/ewangsong/goradius/server.go:30: username= test userpassword= testing nasIP= 172.28.0.106
+[INFO]2019/05/24 17:58:52 /Users/waso/go/src/ewangsong/goradius/sql.go:58: sql: no rows in result set
+[INFO]2019/05/24 18:00:17 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/24 18:00:17 /Users/waso/go/src/ewangsong/goradius/sql.go:42: ËØ∑ÊääIPÂíåÂØÜÈí•Âä†ÂÖ•ËÆ§ËØÅÊúçÂä°Âô®ÁôΩÂêçÂçï
+[INFO]2019/05/24 18:00:22 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/24 18:00:22 /Users/waso/go/src/ewangsong/goradius/sql.go:42: ËØ∑ÊääIPÂíåÂØÜÈí•Âä†ÂÖ•ËÆ§ËØÅÊúçÂä°Âô®ÁôΩÂêçÂçï

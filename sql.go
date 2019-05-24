@@ -21,7 +21,6 @@ func DbLive() {
 	defer db.Close()
 	if err != nil {
 		log.Fatal(err)
-		return
 	}
 	err1 := db.Ping()
 	if err1 != nil {
