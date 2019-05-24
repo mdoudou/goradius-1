@@ -5,6 +5,7 @@ import (
 	"io/ioutil"
 )
 
+//获取数据库配置
 func GetDbConfig() (t, m string) {
 	data, err := ioutil.ReadFile("./conf.json")
 	if err != nil {

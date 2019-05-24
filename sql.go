@@ -14,6 +14,7 @@ type DbConfig struct {
 
 var a, b = GetDbConfig()
 
+//判断是否正确连接数据库
 func DbLive() {
 
 	db, err := sql.Open(a, b)
@@ -24,7 +25,7 @@ func DbLive() {
 	}
 	err1 := db.Ping()
 	if err1 != nil {
-		log.Fatal("连接数据库失败")
+		log.Fatal("Wrong connect to DB")
 
 	}
 }

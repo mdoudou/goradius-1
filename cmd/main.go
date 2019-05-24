@@ -1,8 +1,8 @@
 package main
 
 import (
+	"ewangsong/goradius"
 	"fmt"
-	"goradius"
 	"log"
 	"net"
 	"os"

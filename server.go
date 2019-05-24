@@ -22,6 +22,7 @@ func Server(conn *net.UDPConn) {
 	pakage, _ := Parse(buf, secret)
 	userName := UserName_GetString(pakage)
 	uerPassword := UserPassword_GetString(pakage)
+	//打印用户名密码和NAS IP
 	log.Println("username=", userName, "userpassword=", uerPassword, "nasIP=", ipp)
 
 	if GetUserPasswd(uerPassword) == uerPassword {
