@@ -11,8 +11,7 @@ import (
 )
 
 func main() {
-	var ch chan int
-	ch = make(chan int)
+
 	logfile, err := os.OpenFile("./goradius.log", os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
 	if err != nil {
 		os.Exit(-1)
@@ -23,7 +22,6 @@ func main() {
 	log.SetFlags(log.Llongfile | log.Ldate | log.Ltime)
 
 	goradius.DbLive() //判断数据库是否存在
-
 	udpaddr, err := net.ResolveUDPAddr("udp", ":1812")
 	if err != nil {
 		fmt.Println(err)
@@ -33,7 +31,7 @@ func main() {
 	if err2 != nil {
 		log.Println(err2)
 	}
-	go goradius.Server(udpconn)
 
-	<-ch
+	goradius.Server(udpconn)
+
 }

@@ -145,3 +145,82 @@
 [INFO]2019/05/24 18:00:17 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
 [INFO]2019/05/24 18:00:22 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
 [INFO]2019/05/24 18:00:22 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 11:51:13 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 11:51:13 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 11:51:18 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 11:51:18 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 11:51:23 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 11:51:23 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 11:52:22 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 11:52:22 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 11:52:27 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 11:52:27 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 12:27:41 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 12:27:41 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 12:27:46 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 12:27:46 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 12:27:51 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 12:27:51 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 12:28:59 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 12:28:59 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 12:29:04 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 12:29:04 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 12:29:09 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 12:29:09 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 12:29:16 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 12:29:16 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 12:29:21 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 12:29:21 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 12:59:40 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 12:59:40 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 13:00:54 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 13:00:54 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 13:01:57 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 13:01:57 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 13:05:26 /Users/waso/go/src/ewangsong/goradius/sql.go:39: sql: no rows in result set
+[INFO]2019/05/27 13:05:26 /Users/waso/go/src/ewangsong/goradius/sql.go:42: 请把IP和密钥加入认证服务器白名单
+[INFO]2019/05/27 13:07:51 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106
+[INFO]2019/05/27 13:09:43 /Users/waso/go/src/ewangsong/goradius/server.go:29: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106
+[INFO]2019/05/27 13:11:08 /Users/waso/go/src/ewangsong/goradius/server.go:30: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106
+[INFO]2019/05/27 13:12:40 /Users/waso/go/src/ewangsong/goradius/server.go:30: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106
+[INFO]2019/05/27 13:14:38 /Users/waso/go/src/ewangsong/goradius/server.go:30: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106
+[INFO]2019/05/27 13:18:39 /Users/waso/go/src/ewangsong/goradius/server.go:30: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106
+[INFO]2019/05/27 13:18:39 /Users/waso/go/src/ewangsong/goradius/server.go:38: ok
+[INFO]2019/05/27 13:21:01 /Users/waso/go/src/ewangsong/goradius/server.go:37: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:21:32 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:23:54 /Users/waso/go/src/ewangsong/goradius/server.go:37: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:25:00 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:25:48 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:27:48 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:21 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:23 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:24 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:25 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:26 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:42 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:43 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:44 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:44 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:45 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:28:45 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:30:48 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:30:51 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:30:51 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:30:52 /Users/waso/go/src/ewangsong/goradius/server.go:38: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:32:03 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:32:05 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:32:06 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:32:11 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:33:57 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:34:02 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:34:23 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:35:23 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:36:21 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 13:36:26 /Users/waso/go/src/ewangsong/goradius/server.go:40: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 14:16:20 /Users/waso/go/src/ewangsong/goradius/server.go:39: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 14:17:14 /Users/waso/go/src/ewangsong/goradius/server.go:39: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 14:17:15 /Users/waso/go/src/ewangsong/goradius/server.go:39: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 14:17:16 /Users/waso/go/src/ewangsong/goradius/server.go:39: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 14:17:17 /Users/waso/go/src/ewangsong/goradius/server.go:39: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 14:17:17 /Users/waso/go/src/ewangsong/goradius/server.go:39: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
+[INFO]2019/05/27 14:17:18 /Users/waso/go/src/ewangsong/goradius/server.go:39: username= 00-0c-29-e1-c5-d0 userpassword= 00-0c-29-e1-c5-d0 nasIP= 172.28.0.106 OK
